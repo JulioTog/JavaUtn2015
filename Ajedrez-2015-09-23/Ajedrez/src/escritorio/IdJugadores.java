@@ -2,7 +2,7 @@ package escritorio;
 
 
 
-public class IdJugadores extends Registro {
+public class IdJugadores extends Main {
 
     public IdJugadores() {
         initComponents();
@@ -143,6 +143,6 @@ public class IdJugadores extends Registro {
     // End of variables declaration//GEN-END:variables
 
     public void login(int jugador1, int jugador2) {
-        super.login(jugador1, jugador2);
+        super.iniciarPartida(jugador1, jugador2);
     }
 }

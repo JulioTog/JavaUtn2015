@@ -1,11 +1,6 @@
 package escritorio;
 
-import entidades.Jugador;
-import negocio.ControladorAjedrez;
-
-
 public class Registro extends Main {
-    
     
     public Registro() {
         initComponents();
@@ -97,12 +92,10 @@ public class Registro extends Main {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnSalirMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnSalirMouseClicked
-        // TODO add your handling code here:
         System.exit(0);
     }//GEN-LAST:event_btnSalirMouseClicked
 
     private void btnGuardarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnGuardarMouseClicked
-        // TODO add your handling code here:
         guardar(Integer.parseInt(txtDni.getText()), txtNombre.getText(), txtApellido.getText());
     }//GEN-LAST:event_btnGuardarMouseClicked
 
@@ -151,7 +144,5 @@ public class Registro extends Main {
     private void guardar(int dni, String nombre, String apellido) {
         super.registrarJugador(dni, nombre, apellido);
     }
-    public void login(int jug1, int jug2){
-        super.iniciarPartida(jug1, jug2);
-    }
+    
 }
