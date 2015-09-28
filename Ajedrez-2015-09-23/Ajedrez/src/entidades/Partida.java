@@ -21,7 +21,7 @@ public class Partida {
             }
         }
     }
-
+//asigna nimero arriba!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     public void setNroPartida(int nro) {
         this.nroPartida=nro;
     }
