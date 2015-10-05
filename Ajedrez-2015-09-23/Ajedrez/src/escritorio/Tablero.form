@@ -24,1085 +24,401 @@
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn92" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn100" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn93" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn101" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn94" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn102" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn95" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn103" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn96" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn104" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn98" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn106" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn19" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn99" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn97" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn105" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-              </Group>
-              <EmptySpace pref="65" max="32767" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn16" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn26" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn36" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn46" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn56" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn66" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn76" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn86" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn15" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn25" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn35" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn45" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn55" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn65" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn75" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn85" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn14" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn24" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn34" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn44" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn54" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn64" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn74" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn84" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn13" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn23" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn33" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn43" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn53" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn63" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn73" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn83" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn12" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn22" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn32" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn42" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn52" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn62" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn72" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn82" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn11" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn21" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn31" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn41" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn51" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn61" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn71" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn81" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
-                          <Group type="102" alignment="1" attributes="0">
-                              <Component id="btn17" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn27" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn37" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn47" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn57" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn67" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn77" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="btn18" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn28" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn38" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace min="-2" max="-2" attributes="0"/>
-                              <Component id="btn48" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="32767" attributes="0"/>
-                              <Component id="btn58" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn68" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <EmptySpace max="-2" attributes="0"/>
-                              <Component id="btn78" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Component id="btnMover" min="-2" pref="134" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn12" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn22" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn32" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn42" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn52" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn62" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn72" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn82" min="-2" pref="54" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn87" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn88" linkSize="3" min="-2" pref="32" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn13" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn23" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn33" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn43" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn53" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn63" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn73" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn83" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn16" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn26" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn36" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn46" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn56" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn66" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn76" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn86" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn17" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn27" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn37" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn47" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn57" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn67" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn77" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn87" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn18" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn28" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn38" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn48" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn58" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn68" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn78" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn88" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn14" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn24" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn34" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn44" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn54" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn64" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn74" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn84" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn15" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn25" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn35" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn45" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn55" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn65" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn75" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn85" min="-2" pref="54" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="btn11" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn21" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn31" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn41" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn51" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn61" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn71" min="-2" pref="54" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="btn81" min="-2" pref="54" max="-2" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
-              <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn119" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn111" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn120" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn112" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn121" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn113" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn122" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn114" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn107" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn115" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn109" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn117" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn118" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn110" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="btn108" min="-2" pref="32" max="-2" attributes="0"/>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Component id="btn116" min="-2" pref="32" max="-2" attributes="0"/>
-                  </Group>
-              </Group>
+              <EmptySpace pref="26" max="32767" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" alignment="0" attributes="0">
-              <EmptySpace min="-2" pref="56" max="-2" attributes="0"/>
-              <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn118" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn110" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn119" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn111" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn120" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn112" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn121" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn113" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn122" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn114" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn107" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn115" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn108" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn116" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="btn109" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn117" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                  </Group>
-                  <Group type="102" attributes="0">
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn11" linkSize="4" alignment="1" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn21" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn31" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn41" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn51" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn61" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn71" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn81" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn19" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn99" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn12" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn22" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn32" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn42" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn52" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn62" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn72" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn82" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn92" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn100" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn13" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn23" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn33" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn43" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn53" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn63" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn73" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn83" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn93" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn101" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn14" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn24" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn34" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn44" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn54" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn64" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn74" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn84" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn94" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn102" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn15" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn25" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn35" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn45" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn55" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn65" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn75" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn85" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn95" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn103" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" groupAlignment="3" attributes="0">
-                              <Component id="btn16" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn26" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn36" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn46" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn56" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn66" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn76" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn86" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn96" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn104" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                              <Component id="btn17" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn27" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn37" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn47" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn57" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn67" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn77" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn87" linkSize="4" alignment="0" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn97" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn105" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                              <Component id="btn18" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn28" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn38" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn48" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                              <Component id="btn78" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn68" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn58" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                              <Component id="btn88" linkSize="4" alignment="3" min="-2" pref="32" max="-2" attributes="0"/>
-                          </Group>
-                          <Component id="btn98" min="-2" pref="32" max="-2" attributes="0"/>
-                          <Component id="btn106" min="-2" pref="32" max="-2" attributes="0"/>
-                      </Group>
-                  </Group>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn18" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn28" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn38" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn48" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn58" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn68" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn78" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn88" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
               </Group>
-              <EmptySpace pref="95" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn17" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn27" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn37" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn47" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn57" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn67" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn77" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn87" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn16" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn26" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn36" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn46" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn56" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn66" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn76" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn86" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn15" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn25" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn35" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn45" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn55" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn65" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn75" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn85" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn14" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn24" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn34" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn44" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn54" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn64" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn74" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn84" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn13" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn23" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn33" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn43" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn53" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn63" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn73" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn83" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn12" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn22" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn32" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn42" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn52" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn62" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn72" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn82" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btn11" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn21" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn31" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn41" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn51" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn61" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn71" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+                  <Component id="btn81" alignment="3" min="-2" pref="54" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+              <Component id="btnMover" pref="45" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
           </Group>
       </Group>
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Component class="javax.swing.JToggleButton" name="btn11">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn21">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn31">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn41">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn51">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn61">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn71">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn81">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn12">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn22">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn52">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn32">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn42">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn62">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn72">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn82">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn13">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn23">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn33">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn43">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn53">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn63">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn73">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn83">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn54">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn84">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn15">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn25">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn35">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn45">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn18">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn18MouseClicked"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn55">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn65">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
-    </Component>
-    <Component class="javax.swing.JToggleButton" name="btn75">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn17">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn17MouseClicked"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn85">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn16">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn16MouseClicked"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn16">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn15">
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btn15MouseClicked"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn26">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn14">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn36">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn13">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn46">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn12">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn56">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn11">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn66">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn28">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn86">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn27">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn17">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn26">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn27">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn25">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn25ActionPerformed"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn37">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn24">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn47">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn23">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn57">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn22">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn67">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn21">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn77">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn38">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn87">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn37">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn18">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn36">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn28">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn35">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn38">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn34">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn48">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn33">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn58">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn32">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn88">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn31">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn14">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn48">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn24">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn47">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn34">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn46">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn44">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn45">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn64">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn44">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn74">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn43">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn76">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn42">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn78">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn41">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn68">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn58">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn19">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn57">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn92">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn56">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn93">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn55">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn94">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn54">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn95">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn53">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn96">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn52">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn97">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn51">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn98">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn68">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn99">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn67">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn100">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn66">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn101">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn65">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn102">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn64">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn103">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn63">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn104">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn62">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn105">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn61">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn106">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn78">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn107">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn77">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn108">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn76">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn109">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn75">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn110">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn74">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn111">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn73">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn112">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn72">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn113">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn71">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn114">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn88">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn115">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn87">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn116">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn86">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn117">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn85">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn118">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn84">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn119">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn83">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn120">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn82">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn121">
-      <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
-      </Properties>
+    <Component class="javax.swing.JButton" name="btn81">
     </Component>
-    <Component class="javax.swing.JToggleButton" name="btn122">
+    <Component class="javax.swing.JButton" name="btnMover">
       <Properties>
-        <Property name="margin" type="java.awt.Insets" editor="org.netbeans.beaninfo.editors.InsetsEditor">
-          <Insets value="[0, 0, 0, 0]"/>
-        </Property>
+        <Property name="text" type="java.lang.String" value="Mover!"/>
       </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="btnMoverMouseClicked"/>
+      </Events>
     </Component>
   </SubComponents>
 </Form>
