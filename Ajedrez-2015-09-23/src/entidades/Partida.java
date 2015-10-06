@@ -9,8 +9,9 @@ public class Partida {
     private int nroPartida;
     private Jugador jugadorBlanco;
     private Jugador jugadorNegro;
-    ArrayList<Pieza> piezas;
+    private ArrayList<Pieza> piezas;
     private Pieza[][] tablero;
+    private ArrayList<Turno> turnos;
     
     public Partida(){
         piezas = new ArrayList<>();
@@ -29,46 +30,42 @@ public class Partida {
     
     public void inicializarTablero(){
         
-        this.tablero[1][1] = new Torre(1,1,"Tb");
-        this.tablero[1][2] = new Caballo(1,2,"Cb");
-        this.tablero[1][3] = new Alfil(1,3,"Ab");
-        this.tablero[1][4] = new Dama(1,4,"Db");
-        this.tablero[1][5] = new Rey(1,5,"Rb");
-        this.tablero[1][6] = new Alfil(1,6,"Ab");
-        this.tablero[1][7] = new Caballo(1,7,"Cb");
-        this.tablero[1][8] = new Torre(1,8,"Tb");
-        this.tablero[2][1] = new Peon(2,1,"Pb");
-        this.tablero[2][2] = new Peon(2,2,"Pb");
-        this.tablero[2][3] = new Peon(2,3,"Pb");
-        this.tablero[2][4] = new Peon(2,4,"Pb");
-        this.tablero[2][5] = new Peon(2,5,"Pb");
-        this.tablero[2][6] = new Peon(2,6,"Pb");
-        this.tablero[2][7] = new Peon(2,7,"Pb");
-        this.tablero[2][8] = new Peon(2,8,"Pb");
-        this.tablero[8][1] = new Torre(8,1,"Tn");
-        this.tablero[8][2] = new Caballo(8,2,"Cn");
-        this.tablero[8][3] = new Alfil(8,3,"An");
-        this.tablero[8][4] = new Dama(8,4,"Dn");
-        this.tablero[8][5] = new Rey(8,5,"Rn");
-        this.tablero[8][6] = new Alfil(8,6,"An");
-        this.tablero[8][7] = new Caballo(8,7,"Cn");
-        this.tablero[8][8] = new Torre(8,8,"Tn");
-        this.tablero[7][1] = new Peon(7,1,"Pn");
-        this.tablero[7][2] = new Peon(7,2,"Pn");
-        this.tablero[7][3] = new Peon(7,3,"Pn");
-        this.tablero[7][4] = new Peon(7,4,"Pn");
-        this.tablero[7][5] = new Peon(7,5,"Pn");
-        this.tablero[7][6] = new Peon(7,6,"Pn");
-        this.tablero[7][7] = new Peon(7,7,"Pn");
-        this.tablero[7][8] = new Peon(7,8,"Pn");
+        this.tablero[1][1] = new Torre("Tb");
+        this.tablero[1][2] = new Caballo("Cb");
+        this.tablero[1][3] = new Alfil("Ab");
+        this.tablero[1][4] = new Dama("Db");
+        this.tablero[1][5] = new Rey("Rb");
+        this.tablero[1][6] = new Alfil("Ab");
+        this.tablero[1][7] = new Caballo("Cb");
+        this.tablero[1][8] = new Torre("Tb");
+        this.tablero[2][1] = new Peon("Pb");
+        this.tablero[2][2] = new Peon("Pb");
+        this.tablero[2][3] = new Peon("Pb");
+        this.tablero[2][4] = new Peon("Pb");
+        this.tablero[2][5] = new Peon("Pb");
+        this.tablero[2][6] = new Peon("Pb");
+        this.tablero[2][7] = new Peon("Pb");
+        this.tablero[2][8] = new Peon("Pb");
+        this.tablero[8][1] = new Torre("Tn");
+        this.tablero[8][2] = new Caballo("Cn");
+        this.tablero[8][3] = new Alfil("An");
+        this.tablero[8][4] = new Dama("Dn");
+        this.tablero[8][5] = new Rey("Rn");
+        this.tablero[8][6] = new Alfil("An");
+        this.tablero[8][7] = new Caballo("Cn");
+        this.tablero[8][8] = new Torre("Tn");
+        this.tablero[7][1] = new Peon("Pn");
+        this.tablero[7][2] = new Peon("Pn");
+        this.tablero[7][3] = new Peon("Pn");
+        this.tablero[7][4] = new Peon("Pn");
+        this.tablero[7][5] = new Peon("Pn");
+        this.tablero[7][6] = new Peon("Pn");
+        this.tablero[7][7] = new Peon("Pn");
+        this.tablero[7][8] = new Peon("Pn");
         
     }
     
-    public void realizarMovimiento(int iniX, int iniY, int finX, int finY){
-        this.tablero[iniX][iniY].setPosX(finX);
-        this.tablero[iniX][iniY].setPosY(finY);
-        
-    }
+   
     
     public Pieza[][] getTablero(){
         return this.tablero;
@@ -105,6 +102,13 @@ public class Partida {
     public void setPiezas(ArrayList<Pieza> piezas) {
         this.piezas = piezas;
     }
+    //Array con turnos
+    public  ArrayList<Turno> setTurnos(ArrayList<Turno> turnos){
+        this.turnos = turnos;
+    }
     
+    public ArrayList<Turno> getTurnos() {
+        return turnos;
+    }
     
 }

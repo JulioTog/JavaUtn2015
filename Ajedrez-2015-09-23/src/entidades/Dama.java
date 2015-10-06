@@ -3,8 +3,8 @@ package entidades;
 
 public class Dama extends Pieza {
 
-    public Dama(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Dama(String idPieza) {
+        super(idPieza);
     }
 
     public boolean validarMovimiento(int inix, int iniy, int finx, int finy){

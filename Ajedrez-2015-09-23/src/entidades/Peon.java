@@ -2,8 +2,8 @@ package entidades;
 
 public class Peon extends Pieza{
 
-    public Peon(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Peon(String idPieza) {
+        super(idPieza);
     }
 
     

@@ -2,8 +2,8 @@ package entidades;
 
 public class Rey extends Pieza{
 
-    public Rey(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Rey(String idPieza) {
+        super(idPieza);
     }
     
     public boolean validarMovimiento(int inix, int iniy, int finx, int finy){

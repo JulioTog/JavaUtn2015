@@ -5,6 +5,7 @@ public class Jugador {
     private int dni;
     private String nombre;
     private String apellido;
+    private String color;
     
     public Jugador(){}
 
@@ -30,6 +31,12 @@ public class Jugador {
 
     public void setApellido(String apellido) {
         this.apellido = apellido;
+    }
+    public void setColor(String color){
+        this.color = color;
+    }
+    public String getColor(){
+        return color;
     }
     
     

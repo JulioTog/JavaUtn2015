@@ -2,8 +2,8 @@ package entidades;
 
 public class Torre extends Pieza{
 
-    public Torre(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Torre(String idPieza) {
+        super(idPieza);
     }
 
     public boolean validarMovimiento(int inix, int iniy, int finx, int finy){

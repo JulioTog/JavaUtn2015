@@ -3,8 +3,8 @@ package entidades;
 
 public class Alfil extends Pieza {
 
-    public Alfil(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Alfil(String idPieza) {
+        super(idPieza);
     }
     
     

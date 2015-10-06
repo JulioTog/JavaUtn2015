@@ -2,8 +2,8 @@ package entidades;
 
 public class Caballo extends Pieza{
 
-    public Caballo(int posX, int posY, String idPieza) {
-        super(posX, posY, idPieza);
+    public Caballo(String idPieza) {
+        super(idPieza);
     }
     
     public boolean validarMovimiento(int inix, int iniy, int finx, int finy){
