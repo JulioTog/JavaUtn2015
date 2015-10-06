@@ -7,7 +7,11 @@ public class Jugador {
     private String apellido;
     private String color;
     
-    public Jugador(){}
+    public Jugador(int dni, String nombre, String apellido){
+        this.setDni(dni);
+        this.setApellido(apellido);
+        this.setNombre(nombre);
+    }
 
     public int getDni() {
         return dni;

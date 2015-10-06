@@ -15,6 +15,7 @@ public class Partida {
     
     public Partida(){
         piezas = new ArrayList<>();
+        turnos = new ArrayList<>();
         this.tablero = new Pieza[8][8];
         this.tablero = null;
     }
@@ -103,7 +104,7 @@ public class Partida {
         this.piezas = piezas;
     }
     //Array con turnos
-    public  ArrayList<Turno> setTurnos(ArrayList<Turno> turnos){
+    public  void setTurnos(ArrayList<Turno> turnos){
         this.turnos = turnos;
     }
     
